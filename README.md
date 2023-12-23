@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Liton Mohonto
 #### Web Developer 
-![Web Developer ](https://arturssmirnovs.github.io/github-profile-https://github.com/litonmohonto/LitonMohanto/blob/main/1568269979996.pngreadme-generator/images/banner.png)
+![Web Developer ](https://github.com/litonmohonto/LitonMohanto/blob/main/1568269979996.png)
 
 hey! I'm A Web Design And Developer 💻
 
@@ -22,11 +22,7 @@ Skills: HTML / CSS / bootstrap / tailwind
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=litonmohonto&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/litonmohonto/contributions?format=svg&private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/litonmohonto)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=litonmohonto)  
-
-
 
