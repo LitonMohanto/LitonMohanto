@@ -30,5 +30,7 @@ Skills:  HTML / CSS/ bootstrap / Tailwind
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=LitonMohonto )  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 
