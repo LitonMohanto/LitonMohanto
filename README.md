@@ -28,3 +28,5 @@ Skills:  HTML / CSS/ bootstrap / Tailwind
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=LitonMohonto )  
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
